@@ -35,7 +35,8 @@ $$\begin{align}
 ## B1
 
 Beam formula:
-$$\begin{align}EI_z\frac{\partial^4Z(x,t)}{\partial x^4}+\rho A\frac{\partial^2Z(x,t)}{\partial t^2}&=0\\
+$$\begin{align}
+EI_z\frac{\partial^4Z(x,t)}{\partial x^4}+\rho A\frac{\partial^2Z(x,t)}{\partial t^2}&=0\\
 Z(x,t)&=u(x)e^{i\omega t}\\
 \frac{\partial^4Z(x,t)}{\partial x^4} &= u''''(x)e^{i\omega t}\\
 \frac{\partial^2Z(x,t)}{\partial t^2}&=u(x)\cdot -\omega^2e^{i\omega t}\\
@@ -45,5 +46,3 @@ u''''(x)-\frac{\rho A \omega^2}{EI_z}u(x)&=0 \\
 k^4&=\frac{\rho A \omega^2}{EI_z} \\
 \omega(k)=k^2\sqrt{\frac{EI_z}{\rho A}}
 \end{align}$$
-
-
