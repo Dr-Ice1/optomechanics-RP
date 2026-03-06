@@ -15,3 +15,10 @@ We did not see a difference when changing the offset, but we should have seen a 
 
 # A4
 
+
+# B1
+
+![[B1_15kHz.png|215]]![[B1_30kHz.png|214]]![[B1_45kHz.png|213]]
+A peak appears in the spectrum at the frequency of the signal generator. This peak corresponds to the vibration of the cantilever detected by the interferometer.
+
+# B2
