@@ -11,12 +11,14 @@
             "id": "ca5f1935b5750110",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Manual_v6.pdf"
+                "file": "optomech antwoorden.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Manual_v6"
+              "icon": "lucide-file",
+              "title": "optomech antwoorden"
             }
           }
         ]
@@ -183,13 +185,16 @@
   },
   "active": "ca5f1935b5750110",
   "lastOpenFiles": [
-    "notes.md",
-    "notes.txt",
-    "optomech antwoorden.md",
-    "Manual_v6.pdf",
-    "Q3.A2.md",
-    "assets",
+    "opdrachten.md",
     "assets/opdr-A1.png",
-    "opdrachten.md"
+    "assets/B1_15kHz.png",
+    "assets/B1_45kHz.png",
+    "assets/B1_30kHz.png",
+    "notes.md",
+    "Manual_v6.pdf",
+    "optomech antwoorden.md",
+    "notes.txt",
+    "Q3.A2.md",
+    "assets"
   ]
 }
