@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5cc0e3449afe802b",
@@ -183,13 +184,13 @@
   },
   "active": "ca5f1935b5750110",
   "lastOpenFiles": [
-    "notes.md",
-    "notes.txt",
+    "opdrachten.md",
     "optomech antwoorden.md",
-    "Manual_v6.pdf",
     "Q3.A2.md",
+    "notes.md",
+    "Manual_v6.pdf",
+    "notes.txt",
     "assets",
-    "assets/opdr-A1.png",
-    "opdrachten.md"
+    "assets/opdr-A1.png"
   ]
 }

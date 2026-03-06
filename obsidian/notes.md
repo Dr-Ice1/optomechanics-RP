@@ -2,8 +2,8 @@ B2. peaks of the short cantilever second part, two peaks instead of, second trac
 
 B3.
 
-peaks for 16 kHz: [-54.2, -53.8, -54.7, -57.5, -62.1] dBm
-peaks for 88.6 kHz: [-68.2, -73.5, -70.3, -67.6, -68.7] dBm
+peaks for 16 kHz: \[-54.2, -53.8, -54.7, -57.5, -62.1] dBm
+peaks for 88.6 kHz: \[-68.2, -73.5, -70.3, -67.6, -68.7] dBm
 
 length = 2 rounds + 30
 1 round = 0-50
