@@ -171,3 +171,30 @@ Roots in [-50, 50]:
 48.694686130642
 ```
 
+## B4
+For a beam of width w and height h, we have the following area moment of inertia:
+$$
+\int_{0}^{w} dy\int_{-h/2}^{h/2} z^2 \, dz 
+$$
+This evaluates to:
+$$
+\frac{wh^3}{12}
+$$
+## B5
+Combining these five equations..
+$$
+(1) A = wh,(2) I = \frac{wh^3}{12},(3) \alpha_n = k_n L, (4) \frac{\alpha_n^4}{L^4} = \frac{\rho A \omega_n^2}{EI}, (5) f_n = \frac{\omega_n}{2\pi}
+$$
+..we find:
+$$
+f_n = \frac{\alpha_n^2}{2\pi L^2}h\sqrt \frac{E}{12\rho}
+$$
+## B6
+To calculate the first 5 resonance frequencies, we need to fill in alpha n for n = 1 to n = 5. The estimates for E and rho are 250 GPa and 3100 kg/m^3 respectively:
+$$
+f_1 = 116 kHz,
+f_2 = 727 kHz,
+f_3 = 2.04 MHz,
+f_4 = 3.99 MHz,
+f_5 = 6.60 MHz
+$$
